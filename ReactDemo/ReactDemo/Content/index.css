@@ -1,0 +1,56 @@
+
+h1 {
+    font-size: 16px!important;
+    padding-left:5px;
+}
+h2 {
+    font-size: 16px !important;
+    padding-left: 5px;
+}
+
+img {
+    width: 240px!important;
+    height: 200px!important;
+}
+p {
+    font-size: 16px;
+}
+
+.item4 {
+    padding-left:10px;
+}
+.item5 {
+    padding-left:0!important;
+}
+#button {
+    margin:0px!important;
+    font-weight: 400;
+    font-size: 16px;
+    padding:10px;
+    color:	#6495ed;
+    padding-left:16px!important;
+    padding-right:16px!important;
+
+}
+
+#eye {
+    position: absolute;
+    top: 260px;
+    left:30px;
+    color:white;
+}
+#list {
+    position: absolute;
+    top: 260px;
+    left: 60px;
+    color:white;
+}
+
+#button-small {
+     position: absolute;
+    top: 256px;
+    left: 210px;
+    color:blueviolet;
+    background-color:aqua;
+    
+}
