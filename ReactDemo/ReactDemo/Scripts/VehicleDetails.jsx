@@ -24,8 +24,8 @@ var VehicleHeadSubComponent = React.createClass({
     return (
 		<div className="row"  style = {style}>
 	        <div className="col-sm-4">
-                <h1>2011 CHEVROLET</h1>
-                <h2>CORVETIE PREMIUM L</h2>
+                <p id="header">2011 CHEVROLET</p>
+                <p id="header">CORVETIE PREMIUM L</p>
 			</div>
         </div>
 		
@@ -39,31 +39,17 @@ var CRButtonSubComponent = React.createClass({
         return (
             <div className='item3'>
                <span><img src="/Content/Images/Vehicle_Image.png"/></span>
-			   <p>
+			   <div id="overlay">
 			    <span className="fa fa-eye" id='eye'></span>
                 <span className="fa fa-list" id='list'></span>
                 <button type = "button" id="button-small" value = "submit">CR</button>
-			   </p>
+			   </div>
 			
             </div>
         );
     }
 });
 
-var BodySubComponent = React.createClass({
-    render : function () {
-        return (
-            <div className='item4'>
-            <p>1G1YG3DW5A5103037</p>
-            <p> Miles:5,375</p>
-            <p> Color: Red/Grey</p>
-            <p> Seller: GM Financial</p>
-            <p>  Ends in 4d 2hrs</p>
-            <p> Buy Now:$48,800</p>
-        </div>
-        );
-    }
-});
 
 var FooterActionsSubComponent = React.createClass({
     render : function () {
