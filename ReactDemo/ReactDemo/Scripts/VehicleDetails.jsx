@@ -69,7 +69,7 @@ var FooterActionsSubComponent = React.createClass({
     render : function () {
 
         return (
-            <div className='item5'>
+            <div className='item5' id="transbox">
              <span>
                 <button type = "button" value = "submit" id='button'><span className="fa fa-info-circle"></span><br/>Detials</button>
                 <button type = "button" value = "submit" id='button'><span className="fa fa-plus"></span><br/>Add</button>
@@ -78,6 +78,49 @@ var FooterActionsSubComponent = React.createClass({
             </span>
         </div>
         );
+    }
+});
+
+var BodySubComponent = React.createClass({
+
+    getInitialState: function() {
+        return {
+            Vehicle1: []
+        }
+    },
+
+    componentDidMount: function() {
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('get', 'https://api.myjson.com/bins/52urd', true);
+        xhr.onload = function () {
+            var data = JSON.parse(xhr.responseText);
+            console.log(data);
+            this.setState({Vehicle1: data.Vehicle1});
+        }.bind(this);
+      
+        xhr.send();
+    },
+
+    componentWillUnmount: function() {
+        this.serverRequest.abort();
+    },
+
+    render: function() {
+        return (
+
+            <div className='item4'>
+                <span key={this.state.Vehicle1.vehicle_id}>
+                          {this.state.Vehicle1.vehicle_id}<br/>
+                 Miles:   {this.state.Vehicle1.miles}<br/>
+                 Color:   {this.state.Vehicle1.color}<br/>
+                 Seller:  {this.state.Vehicle1.seller}<br/>
+				          {this.state.Vehicle1.duration}<br/>
+                 Buy Now: {this.state.Vehicle1.buynow}
+                </span>
+            </div>
+
+    );
     }
 });
 

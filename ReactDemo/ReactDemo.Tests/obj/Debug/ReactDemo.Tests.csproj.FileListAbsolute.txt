@@ -31,3 +31,36 @@ c:\users\srivadev\documents\visual studio 2013\Projects\ReactDemo\ReactDemo.Test
 c:\users\srivadev\documents\visual studio 2013\Projects\ReactDemo\ReactDemo.Tests\obj\Debug\ReactDemo.Tests.csprojResolveAssemblyReference.cache
 c:\users\srivadev\documents\visual studio 2013\Projects\ReactDemo\ReactDemo.Tests\obj\Debug\ReactDemo.Tests.dll
 c:\users\srivadev\documents\visual studio 2013\Projects\ReactDemo\ReactDemo.Tests\obj\Debug\ReactDemo.Tests.pdb
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ClearScript.V8\ClearScriptV8-32.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ClearScript.V8\ClearScriptV8-64.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ClearScript.V8\v8-ia32.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ClearScript.V8\v8-x64.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ReactDemo.Tests.dll.config
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ReactDemo.Tests.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ReactDemo.Tests.pdb
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ReactDemo.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Net.Http.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.Helpers.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.Mvc.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.Razor.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.WebPages.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\WebActivatorEx.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\ReactDemo.pdb
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Net.Http.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.Helpers.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.Mvc.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.Razor.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.WebPages.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\obj\Debug\ReactDemo.Tests.csprojResolveAssemblyReference.cache
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\obj\Debug\ReactDemo.Tests.dll
+C:\ReactExamples\ReactDemo\ReactDemo.Tests\obj\Debug\ReactDemo.Tests.pdb
