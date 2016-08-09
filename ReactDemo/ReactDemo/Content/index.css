@@ -1,21 +1,16 @@
 
-h1 {
-    font-size: 16px!important;
-    padding-left:5px;
-}
-h2 {
-    font-size: 16px !important;
-    padding-left: 5px;
-}
+
 
 #header {
+    margin-left:10px;
     width:200px;
     height:5px;
+    font-size:16px;
 }
 
 img {
     width: 240px!important;
-    height: 200px!important;
+    height: 190px!important;
 }
 p {
     font-size: 16px;
@@ -23,32 +18,49 @@ p {
 
 .item4 {
     padding-left:10px;
+    padding:5px;
+  
+  
 }
 .item5 {
-    padding-left:0!important;
-}
-#button {
-    margin:0px!important;
-    font-weight: 400;
-    font-size: 16px;
-    padding:10px;
-    color:	#6495ed;
-    padding-left:16px!important;
-    padding-right:16px!important;
-
+    padding-left: 0 !important;
+    border-top: 1px solid #868686;
 }
 
 #eye {
     position: absolute;
-    top: 7px;
-    left:30px;
-    color:white;
+    top: 360px;
+    left:36px;
+    color:#868686;
 }
 #list {
     position: absolute;
-    top: 7px;
-    left: 60px;
-    color:white;
+    top: 360px;
+    left: 115px;
+    color:#868686;
+}
+#money {
+    position: absolute;
+    top: 360px;
+    left: 190px;
+    color:#868686;
+
+}
+
+#watchlist{
+    position: fixed;
+    left:15px!important;
+    color: #868686;
+}
+#whishlist {
+     position: absolute;
+     right:-23px;
+     color: #868686;
+}
+#bid{
+     position: absolute;
+     left:-165px;
+     color: #868686;
 }
 #overlay {
     background: rgba(0, 0, 0, 0.42);
@@ -64,10 +76,62 @@ p {
     width: 241px;
 }
 #button-small {
-     position: absolute;
-    top: 6px;
-    left: 193px;
-    color:blueviolet;
-    background-color:aqua;
+    position: absolute;
+    top: 229px;
+    left: 199px;
+    background-color:#848DC3;
+    padding-left:5px;
+    padding-right:5px;
     
+}
+#miles{
+    color:	#1a56e3;
+}
+
+#colors{
+    color:#696969;
+}
+#bid {
+    margin-left:150px!important;
+}
+#bottom {
+    background-color:#FBFBFB;
+    padding-bottom:70px;
+}
+
+#number {
+    position: absolute;
+    top:230px;
+    left: 20px;
+    color:#ffffff;
+}
+
+#buy{
+    color:#383838;
+}
+#buynow {
+    color:#328549!important;
+}
+#highBid {
+    color:#383838!important;
+    margin-left:15px!important;
+}
+#highid {
+    color:#6492BD!important;
+}
+#vehicle_color {
+    margin-left:25px!important;
+    color:#383838;
+}
+#colorid {
+    color: #848484;
+}
+#seller {
+    color:#383838;
+}
+#vehicle_seller {
+    color:#848484;
+}
+#duration {
+    color:#848484;
 }
