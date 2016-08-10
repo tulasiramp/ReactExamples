@@ -1,20 +1,26 @@
 
 
-
 #header {
     margin-left:10px;
-    width:200px;
+    width:200px!important;
     height:5px;
-    font-size:16px;
+    font-size:14.5px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight:200;
 }
 
+#style {
+    background:#6492BD;
+    color : #ffffff;
+    padding-bottom:1px;
+    width: 200px;
+    font-size:13px;
+}
 img {
-    width: 240px!important;
-    height: 190px!important;
+    width: 200px!important;
+    
 }
-p {
-    font-size: 16px;
-}
+
 
 .item4 {
     padding-left:10px;
@@ -24,25 +30,25 @@ p {
 }
 .item5 {
     padding-left: 0 !important;
-    border-top: 1px solid #868686;
+    border-top: 1px solid #D3D3D3;
 }
 
 #eye {
     position: absolute;
-    top: 360px;
+    top: 282px;
     left:36px;
     color:#868686;
 }
 #list {
     position: absolute;
-    top: 360px;
-    left: 115px;
+    top: 282px;
+    left: 97px;
     color:#868686;
 }
 #money {
     position: absolute;
-    top: 360px;
-    left: 190px;
+    top: 282px;
+    left: 165px;
     color:#868686;
 
 }
@@ -51,87 +57,106 @@ p {
     position: fixed;
     left:15px!important;
     color: #868686;
+    font-size:14px;
 }
 #whishlist {
      position: absolute;
      right:-23px;
      color: #868686;
+     font-size:14px;
 }
 #bid{
      position: absolute;
      left:-165px;
      color: #868686;
+     font-size:14px;
 }
 #overlay {
     background: rgba(0, 0, 0, 0.42);
     z-index: 10000;
     margin-top: -33px;
-    width: 240px;
+    width: 200px;
     height: 33px;
     margin-left: 0px;
     position: absolute;
 }
 #VehicleCard {
-    border: 1px solid #383838;
-    width: 241px;
+    border: 1px solid #D3D3D3;
+    border-top:none;
+    width: 200px;
 }
 #button-small {
     position: absolute;
-    top: 229px;
-    left: 199px;
-    background-color:#848DC3;
-    padding-left:5px;
-    padding-right:5px;
+    top: 172px;
+    left: 167px;
+    background-color: #848DC3;
+    font-size: 10px;
+    color: white;
+    /* padding-left: 5px; */
+    /* padding-right: 5px; */
+   
     
 }
 #miles{
     color:	#1a56e3;
+    font-size:13px;
 }
 
 #colors{
     color:#696969;
+    font-size:13px;
 }
 #bid {
     margin-left:150px!important;
 }
 #bottom {
     background-color:#FBFBFB;
-    padding-bottom:70px;
+    padding-bottom:42px;
 }
 
 #number {
     position: absolute;
-    top:230px;
-    left: 20px;
+    top:178px;
+    left: 19px;
     color:#ffffff;
+    font-size:13px;
 }
 
 #buy{
     color:#383838;
+    font-size:13px;
 }
 #buynow {
     color:#328549!important;
+    font-size:13px;
 }
 #highBid {
     color:#383838!important;
-    margin-left:15px!important;
+    margin-left:7px!important;
+    font-size:13px;
 }
 #highid {
     color:#6492BD!important;
+    font-size:13px;
 }
 #vehicle_color {
-    margin-left:25px!important;
+    margin-left:15px!important;
     color:#383838;
+    font-size:13px;
 }
 #colorid {
     color: #848484;
+    font-size:13px;
 }
 #seller {
     color:#383838;
+    font-size:13px;
 }
 #vehicle_seller {
     color:#848484;
+    font-size:13px;
 }
 #duration {
     color:#848484;
+    font-size:13px;
 }

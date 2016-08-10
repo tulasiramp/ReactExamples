@@ -12,15 +12,9 @@ var VehicleCardUIComponent = React.createClass({
 });
 var VehicleHeadSubComponent = React.createClass({
     render : function () {
-        var style={
-            background:'#6492BD',
-            color : 'white',
-            padding:'1px',
-			width:'240px'
-			};
-		
+       		
     return (
-		<div className="heading"  style = {style}>
+		<div className="heading"  id = "style">
 	        <div className="col-sm-4">
                 <p id="header">2011 CHEVROLET</p>
                 <p id="header">CORVETIE PREMIUM L</p>
